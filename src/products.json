@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Mac Book",
+        "price": 12000,
+        "imgSrc": "https://cdn.thewirecutter.com/wp-content/media/2022/08/macbook-2048px-9765.jpg",
+        "id": "asdhajsdbhja45yjyribhsjdfdfv"
+    },
+    {
+        "name": "Black Shoes",
+        "price": 490,
+        "imgSrc": "https://teakwoodleathers.com/cdn/shop/products/rGUDwock_1080x.jpg?v=1657953743",
+        "id": "sdjfdlaajsd354vbhjabhsjdfdfv"
+    },
+    {
+        "name": "Camera",
+        "price": 1000,
+        "imgSrc": "https://media.istockphoto.com/id/96826250/photo/digital-camera-with-clipping-path.jpg?s=612x612&w=0&k=20&c=ceAF827zi_UfczajJAWkXowWxdu5tfisZHRoCiSq94w=",
+        "id": "sdjfdlaajsdb24xchjabhsjdfdfv"
+    },
+    {
+        "name": "Iphone",
+        "price": 3000,
+        "imgSrc": "https://s3.ap-south-1.amazonaws.com/shop.unicorn/full/6e93f4eb75463fb45368e54e697c1e50.png",
+        "id": "sdjfdlaajsdb46dhjabhsjdfdfv"
+    },
+    {
+        "name": "Earpods",
+        "price": 300,
+        "imgSrc": "https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/750x750/Bluetooth-Earpods-With-Protable-Power-Bank-1.jpg",
+        "id": "sdjfdlaajs4fa4edbhjabhsjdfdfv"
+    },
+    {
+        "name": "Milton Bottle",
+        "price": 770,
+        "imgSrc": "https://assets.ajio.com/medias/sys_master/root/20230629/X8MA/649d0aeaeebac147fc397841/-1117Wx1400H-466032916-silver-MODEL.jpg",
+        "id": "sdjfdlaajsdwt545rbhjabhsjdfdfv"
+    },
+    {
+        "name": "Purse",
+        "price": 650,
+        "imgSrc": "https://m.media-amazon.com/images/I/71T8EVp49iL._AC_UY1000_.jpg",
+        "id": "sdjfdlaajsdbhja56ybhsjdfdfv"
+    },
+    {
+        "name": "Books",
+        "price": 680,
+        "imgSrc": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=1200",
+        "id": "sdjfdlaaj43sdbhjabhsjdfdfv"
+    },
+    {
+        "name": "Bed ",
+        "price": 2000,
+        "imgSrc": "https://m.media-amazon.com/images/I/81hQsJ+gvhL._AC_UF894,1000_QL80_.jpg",
+        "id": "sdjfdlaajsdbhjfdaabhsjdfdfv"
+    }
+]
